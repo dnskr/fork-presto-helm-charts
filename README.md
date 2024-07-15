@@ -4,7 +4,7 @@
 
 Repository for official Presto Helm charts.
 
-## Presto charts repository
+## Helm charts repository
 Use the following command to add the repository to Helm client configuration:
 ```shell
 helm repo add presto https://prestodb.github.io/presto-helm-charts
